@@ -1,0 +1,7 @@
+[
+{"drug_name": "Flupentixol Decanoate", "status": "Formulary", "colour": "Amber", "notes": "LCFT INITIATION ONLY", "brand_name": "Depixol"},
+{"drug_name": "Zuclopenthixol Decanoate", "status": "Formulary", "colour": "Amber", "notes": "LCFT INITIATION\u00a0 ONLY", "brand_name": null},
+{"drug_name": "Aripiprazole", "status": "Formulary", "colour": "Red", "notes": "LCFT ONLY", "brand_name": "Abilify Maintena"},
+{"drug_name": "Paliperidone palmitate ", "status": "Formulary", "colour": "Red", "notes": "LCFT ONLY", "brand_name": "Xeplion"},
+{"drug_name": "Risperidone", "status": "Formulary", "colour": "Red", "notes": "LCFT ONLY", "brand_name": "Risperdal Consta"}
+]
